@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/LSPL469/Desktop/Projects/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LSPL469/Desktop/Projects/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LSPL469/Downloads/json-20210307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LSPL469/Downloads/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LSPL469/Downloads/javax.mail.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

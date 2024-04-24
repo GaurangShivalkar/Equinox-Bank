@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+        /* Custom Styles */
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .section-container {
+            height: 80vh; /* Set a fixed height for the container */
+            overflow-y: scroll; /* Enable vertical scrolling */
+        }
+
+        .hero-section {
+            background-color: #007bff;
+            color: #fff;
+            padding: 100px 0;
+        }
+
+        .hero-section h1 {
+            font-size: 3.5rem;
+            font-weight: bold;
+        }
+
+        .hero-section p {
+            font-size: 1.25rem;
+            margin-bottom: 30px;
+        }
+
+        .learn-more-btn {
+            background-color: #ffffff;
+            color: #007bff;
+            border: 2px solid #007bff;
+            padding: 10px 20px;
+            border-radius: 30px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .learn-more-btn:hover {
+            background-color: #007bff;
+            color: #ffffff;
+        }
+
+        .footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 20px 0;
+        }
+
+        .footer p {
+            margin-bottom: 0;
+        }
